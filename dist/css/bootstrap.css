@@ -1230,7 +1230,7 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .container {
     max-width: 1170px;
   }
@@ -2388,8 +2388,8 @@ input[type="button"].btn-block {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('/fonts/glyphicons-halflings-regular.eot');
-  src: url('/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src: url('/lib/bootstrap/fonts/glyphicons-halflings-regular.eot');
+  src: url('/lib/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/lib/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/lib/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 
 .glyphicon {
@@ -6290,7 +6290,7 @@ td.visible-xs {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .visible-xs.visible-md {
     display: block !important;
   }
@@ -6303,7 +6303,7 @@ td.visible-xs {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .visible-xs.visible-lg {
     display: block !important;
   }
@@ -6355,7 +6355,7 @@ td.visible-sm {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .visible-sm.visible-md {
     display: block !important;
   }
@@ -6368,7 +6368,7 @@ td.visible-sm {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .visible-sm.visible-lg {
     display: block !important;
   }
@@ -6420,7 +6420,7 @@ td.visible-md {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .visible-md {
     display: block !important;
   }
@@ -6433,7 +6433,7 @@ td.visible-md {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .visible-md.visible-lg {
     display: block !important;
   }
@@ -6485,7 +6485,7 @@ td.visible-lg {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .visible-lg.visible-md {
     display: block !important;
   }
@@ -6498,7 +6498,7 @@ td.visible-lg {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .visible-lg {
     display: block !important;
   }
@@ -6550,7 +6550,7 @@ td.hidden-xs {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .hidden-xs.hidden-md {
     display: none !important;
   }
@@ -6563,7 +6563,7 @@ td.hidden-xs {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .hidden-xs.hidden-lg {
     display: none !important;
   }
@@ -6615,7 +6615,7 @@ td.hidden-sm {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .hidden-sm.hidden-md {
     display: none !important;
   }
@@ -6628,7 +6628,7 @@ td.hidden-sm {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .hidden-sm.hidden-lg {
     display: none !important;
   }
@@ -6680,7 +6680,7 @@ td.hidden-md {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .hidden-md {
     display: none !important;
   }
@@ -6693,7 +6693,7 @@ td.hidden-md {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .hidden-md.hidden-lg {
     display: none !important;
   }
@@ -6745,7 +6745,7 @@ td.hidden-lg {
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1599px) {
   .hidden-lg.hidden-md {
     display: none !important;
   }
@@ -6758,7 +6758,7 @@ td.hidden-lg {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .hidden-lg {
     display: none !important;
   }
